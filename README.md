@@ -1,10 +1,7 @@
-# top-machine-learning
-top machine learning repos on github
-
-# Top Deep Learning Projects
+# Top Machine Learning Projects
 A list of popular github projects related to deep learning (ranked by stars).
 
-Last Update: 2016.08.09
+Last Update: 
 
 | Project Name| Stars | Description |
 | ------- | ------ | ------ |
